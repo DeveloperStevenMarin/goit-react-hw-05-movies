@@ -1,0 +1,21 @@
+
+
+.container__reviews{
+    color: antiquewhite;
+    margin:40px 20px;
+}
+
+.title__reviews{
+    margin: 20px;
+}
+
+.container__data-review{
+    background-color: rgb(76, 101, 137);
+    width: auto;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    gap: 10px;
+    padding: 10px;
+}

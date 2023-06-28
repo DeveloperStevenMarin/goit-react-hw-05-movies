@@ -1,0 +1,22 @@
+
+
+
+.image__movie-details{
+    width: 200px;
+}
+
+.container__movie-details{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 20px;
+    color: antiquewhite;
+}
+
+.container__movie-genres{
+    display: flex;
+    gap: 8px;
+    color: antiquewhite
+}

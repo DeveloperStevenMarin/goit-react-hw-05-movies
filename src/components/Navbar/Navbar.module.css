@@ -1,0 +1,9 @@
+
+
+.navbar{
+    height: 45px;
+}
+.navbar__item{
+    color: rgb(216, 58, 52);
+    font-weight: bolder;
+}

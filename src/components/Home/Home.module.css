@@ -1,0 +1,36 @@
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+ul {
+  list-style: none;
+}
+a{
+ text-decoration: none;
+ color: rgb(216, 58, 52);
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.5);
+  gap: 30px;
+  align-items: center;
+}
+
+.title__trending-title{
+
+  margin:20px 40px;
+  height: 40px;
+  color: #327BB3
+}
+
+.element__movie-title{
+  color: antiquewhite;
+}
+
+.search_btn-form {
+
+}

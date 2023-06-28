@@ -1,6 +1,13 @@
 @import-normalize; /* bring in normalize.css styles */
+@import url(./components/Home/Home.module.css);
+@import url(./components/MovieDetails/MovieDetails.module.css);
+@import url(./components/Navbar/Navbar.module.css);
+@import url(./components/Cast/Cast.module.css);
+@import url(./components/ProfileCard/ProfileCard.module.css);
+@import url(./components/Reviews/Reviews.module.css);
 
 body {
+  background-color: rgb(34, 45, 61);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

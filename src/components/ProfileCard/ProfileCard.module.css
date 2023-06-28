@@ -1,0 +1,15 @@
+
+.image__profile-card{
+    width: 200px;
+    border-radius: 5px;
+}
+
+.container__profile-card{
+   background-color: rgb(76, 101, 137);
+   width: 500px;
+   border-radius: 5px;
+   display: flex;
+   flex-direction: row;
+   margin-bottom: 30px;
+   gap: 5px;
+}
